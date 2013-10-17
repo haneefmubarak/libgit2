@@ -162,7 +162,7 @@ Check the [contribution guidelines](CONTRIBUTING.md).
 License
 ==================================
 libgit2 is under GPL2 **with linking exemption**. This means you
-can link to the library with any program, commercial, open source or
+can can link to and use the library from any program, commercial, open source or
 other.  However, you cannot modify libgit2 and distribute it without
 supplying the source.
 
